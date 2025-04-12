@@ -1,3 +1,5 @@
+package Service;
+
 public class EstoqueService {
 
         public void adicionarProduto(produto p){
