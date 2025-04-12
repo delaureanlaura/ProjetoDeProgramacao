@@ -9,10 +9,11 @@ public class VendaService {
     public Venda registrarVenda(List<ItemVenda> itens) {
 
     }
+
     public double CalcularTotal(List<ItemVenda> itens) {
 
     }
-    public void atualizarEstoque(List<ItemVenda> itens) {
 
+    public void atualizarEstoque(List<ItemVenda> itens) {
     }
 }

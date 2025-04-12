@@ -18,11 +18,11 @@ public class EstoqueService {
 
         }
 
-        atualizarQtd (string id, int novaQtd){
+        public void atualizarQtd (string id, int novaQtd){
 
         }
 
-        verificarEstoque(String id, int qtd){
+        public void verificarEstoque(String id, int qtd){
 
         }
 
