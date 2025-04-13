@@ -2,31 +2,31 @@ package Service;
 
 public class EstoqueService {
 
-        public void adicionarProduto(produto p){
-            produtos.put(p.getId(), p);
+        //public void adicionarProduto(Produto p){
+           // Produto.put(p.getId(), p);
 
-        }
+       // }
 
-        public void removerProduto(String id) {
-            produto.remove(id);
+        //public void removerProduto(String id) {
+           // Produto.remove(id);
 
-        }
+       // }
 
-        public list<produto> listarProdutos(){
+        //public list<Produto> listarProdutos(){
 
-        }
+        //}
 
-        public produto buscarProduto(string id){
+        //public Produto buscarProduto(String id){
 
-        }
+      //  }
 
-        public void atualizarQtd (string id, int novaQtd){
+        //public void atualizarQtd (String id, int novaQtd){
 
-        }
+        //}
 
-        public void verificarEstoque(String id, int qtd){
+       // public void verificarEstoque(String id, int qtd){
 
-        }
+        // }
 
 
 
